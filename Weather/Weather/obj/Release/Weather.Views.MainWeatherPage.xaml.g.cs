@@ -11,7 +11,7 @@
 namespace Weather.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\WeatherGitNew\\MyProject\\Weather\\Weather\\Views\\MainWeatherPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\WeatherProject\\MyProject\\Weather\\Weather\\Views\\MainWeatherPage.xaml")]
     public partial class MainWeatherPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Weather.Views.MainWeatherPage">
   <StackLayout >
-    <Button Text="Get Weather" WidthRequest="100"
+    <Button Text="Get Weather" WidthRequest="100" AutomationId="MyButton"
             HorizontalOptions="Center" Command="{Binding WeatherCommand}"></Button>
 
   </StackLayout>
